@@ -2,7 +2,7 @@
 
 ## Необходимые условия
 
-Установить Visual Studio 2022 со следующими рабочими нагрузками (Workloads):<br/>
+Установить [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) со следующими рабочими нагрузками (Workloads):<br/>
 1. .NET 6.0 SDK >
 2. WPF Development
 
