@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\bin\Debug\net6.0\PhoenixLib.deps.json
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\bin\Debug\net6.0\PhoenixLib.dll
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\bin\Debug\net6.0\ref\PhoenixLib.dll
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\bin\Debug\net6.0\PhoenixLib.pdb
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\obj\Debug\net6.0\PhoenixLib.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\obj\Debug\net6.0\PhoenixLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\obj\Debug\net6.0\PhoenixLib.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\obj\Debug\net6.0\PhoenixLib.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\obj\Debug\net6.0\PhoenixLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\obj\Debug\net6.0\PhoenixLib.dll
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\obj\Debug\net6.0\ref\PhoenixLib.dll
+C:\Users\Admin\source\repos\AdmissionBoard\PhoenixLib\obj\Debug\net6.0\PhoenixLib.pdb

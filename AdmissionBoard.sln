@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoenix", "Phoenix\Phoenix.csproj", "{2CAD8401-3281-4683-9DB1-D55EC6F4CD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixLib", "PhoenixLib\PhoenixLib.csproj", "{0CC74849-44D2-415A-AA10-3A4E4E5B48D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CAD8401-3281-4683-9DB1-D55EC6F4CD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAD8401-3281-4683-9DB1-D55EC6F4CD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAD8401-3281-4683-9DB1-D55EC6F4CD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAD8401-3281-4683-9DB1-D55EC6F4CD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC74849-44D2-415A-AA10-3A4E4E5B48D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC74849-44D2-415A-AA10-3A4E4E5B48D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC74849-44D2-415A-AA10-3A4E4E5B48D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC74849-44D2-415A-AA10-3A4E4E5B48D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C1F858-11A8-40BB-B23E-AEB3F075E2EE}
+	EndGlobalSection
+EndGlobal

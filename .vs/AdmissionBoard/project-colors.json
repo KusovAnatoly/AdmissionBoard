@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cad8401-3281-4683-9db1-d55ec6f4cd5e": {
+      "ProjectGuid": "2cad8401-3281-4683-9db1-d55ec6f4cd5e",
+      "DisplayName": "Phoenix",
+      "ColorIndex": 0
+    },
+    "0cc74849-44d2-415a-aa10-3a4e4e5b48d3": {
+      "ProjectGuid": "0cc74849-44d2-415a-aa10-3a4e4e5b48d3",
+      "DisplayName": "PhoenixLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

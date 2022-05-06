@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Phoenix/1.0.0": {
+        "dependencies": {
+          "PhoenixLib": "1.0.0"
+        },
+        "runtime": {
+          "Phoenix.dll": {}
+        }
+      },
+      "PhoenixLib/1.0.0": {
+        "runtime": {
+          "PhoenixLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phoenix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhoenixLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
